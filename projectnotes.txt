@@ -1,0 +1,9 @@
+1. monngodb is the databse, CRUD operations, create read update delete and
+2. a subset of mongodb , mongoose is an Object data modeling library. Can format and check the data so that only the correct data 
+can be entered into the database
+3. validator : a library that can check passwords , emails, return errors if data is not valid.
+To be used in conjuntion with mongoose object data modeling. 
+
+
+
+3. Express: handles requests submitted from the front end,  
