@@ -7,15 +7,7 @@ const User = mongoose.model("User", {
 		required: true,
 		trim: true,
 	},
-	// age: {
-	// 	type: Number,
-	// 	required: true,
-	// 	validate(value) {
-	// 		if (value < 0) {
-	// 			throw new Error("Age must be a positive number");
-	// 		}
-	// 	},
-	//},
+
 	email: {
 		type: String,
 		required: true,
